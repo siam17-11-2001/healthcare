@@ -24,18 +24,18 @@ const Contact = () => {
             </div>
             <div>
               <p className="font-semibold">Hotline Free 24/7</p>
-              <p className="font-semibold">+8801569118531</p>
+              <p className="font-semibold">+13474407228</p>
             </div>
           </div>
           <div className="font-semibold">
             <p>
-              Address: <span>Subid Bazar, Sylhet</span>
+              Address: <span>15921  normal road,jamaica,ny,11432</span>
             </p>
             <p>
-              Email: <span>ahbabtahmim@gmail.com</span>
+              Email: <span>parthib31416@gmail.com</span>
             </p>
             <p>
-              Phone: <span>+8801569118531</span>
+              Phone: <span>+13474407228</span>
             </p>
             <p>
               Fax:
