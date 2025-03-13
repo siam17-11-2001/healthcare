@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Surgical Mask",
+    "category_name": "COVID Essentials",
+    "image": "https://klbtheme.com/medibazar/wp-content/uploads/2020/09/product05.jpg",
+    "price": 5,
+    "description": "A surgical mask is a specialized type of disposable face mask designed primarily to protect the wearer and others from the spread of infectious diseases, bacteria, and viruses. These masks are a critical component of personal protective equipment (PPE) used widely in healthcare settings such as hospitals, clinics, and laboratories, as well as in non-medical environments during outbreaks or pandemics."
+  },
+  {
+    "name": "Hand Sanitizer",
+    "category_name": "COVID Essentials",
+    "image": "https://klbtheme.com/medibazar/wp-content/uploads/2020/09/product08.jpg",
+    "price": 12,
+    "description": "Hand sanitizer is a convenient and portable hygiene product designed to disinfect hands by eliminating germs, bacteria, and viruses without the need for soap and water. It typically comes in liquid, gel, or foam form and is formulated with active ingredients, most commonly alcohol-based compounds like ethanol or isopropanol, which are effective at killing 99.9% of harmful microorganisms.Hand sanitizers often include moisturizing agents such as glycerin or aloe vera to prevent dryness and irritation, ensuring frequent use is gentle on the skin. Non-alcohol-based hand sanitizers are also available, containing antimicrobial agents like benzalkonium chloride, which can provide an alternative for those with sensitive skin."
+  },
+  {
+    "name": "Aspirin",
+    "category_name": "Pain Relief",
+    "image": "https://live.themewild.com/medion/assets/img/product/14.png",
+    "price": 8,
+    "description": "Aspirin, also known as acetylsalicylic acid, is one of the most widely used and studied medications in the world. It is renowned for its versatility and effectiveness in treating a variety of conditions, ranging from mild pain relief to serious cardiovascular disease prevention. First introduced in the late 19th century, aspirin has been a cornerstone of modern medicine for over a century. People should use it for various purpose. 1. Pain Relief, 2.Anti-inflammatory Properties, 3. Fever Reduction, 4.Long-term Prevention of Blood Clots, 5.Accessibility and Affordability"
+  },
+  {
+    "name": "Paracetamol",
+    "category_name": "Pain Relief",
+    "image": "https://live.themewild.com/medion/assets/img/product/02.png",
+    "price": 3,
+    "description": "Paracetamol, also known as acetaminophen, is one of the most widely used medications for pain relief and fever reduction. It is a trusted and accessible over-the-counter medicine that has been a staple in households and healthcare systems for decades due to its efficacy, safety profile, and minimal side effects when used correctly."
+  },
+  {
+    "name": "Moisturizing Lotion",
+    "category_name": "Skin Care",
+    "image": "https://live.themewild.com/medion/assets/img/product/01.png",
+    "price": 25,
+    "description": "Moisturizing lotion is an essential part of daily skincare that offers numerous benefits for maintaining healthy, soft, and radiant skin. It serves as a protective layer against environmental stressors while replenishing the skin's natural moisture barrier. Here's a detailed explanation of why moisturizing lotion is a must-have for everyone:"
+  },
+  {
+    "name": "Sunscreen SPF 50",
+    "category_name": "Skin Care",
+    "image": "https://live.themewild.com/medion/assets/img/product/20.png",
+    "price": 32,
+    "description": "Sunscreen is an essential product for maintaining healthy skin and protecting it from the harmful effects of the sun's ultraviolet (UV) radiation. It acts as a barrier that helps reduce the risks associated with prolonged sun exposure, making it a crucial part of any skincare routine. Here’s why everyone should use sunscreen"
+  },
+  {
+    "name": "Blood Pressure Monitor",
+    "category_name": "Healthcare Device",
+    "image": "https://live.themewild.com/medion/assets/img/product/21.png",
+    "price": 52,
+    "description": "A blood pressure monitor is a vital tool for tracking and managing your health. With cardiovascular diseases being a leading cause of health issues worldwide, monitoring your blood pressure regularly can be a life-changing—and potentially life-saving—habit. Here’s a detailed explanation of why a blood pressure monitor is essential for everyone, regardless of age or health status"
+  },
+  {
+    "name": "Pulse Oxi meter",
+    "category_name": "Healthcare Device",
+    "image": "https://klbtheme.com/medibazar/wp-content/uploads/sb-instagram-feed-images/120899320_251440466299405_8356250328254728198_nlow.jpg",
+    "price": 101,
+    "description": "An oxi meter, commonly referred to as a pulse oxi meter, is a small, portable medical device designed to measure the oxygen saturation level (SpO₂) in your blood and your heart rate. It is an essential tool for monitoring respiratory and cardiovascular health, widely used in both medical settings and at home."
+  },
+  {
+    "name": "Face Shield",
+    "category_name": "Protective Equipment",
+    "image": "https://klbtheme.com/medibazar/wp-content/uploads/2020/09/product04.jpg",
+    "price": 15,
+    "description": "A face shield is a transparent, curved plastic or acrylic device designed to cover the entire face, offering a high level of protection against airborne particles, splashes, and physical contact. Unlike other forms of personal protective equipment (PPE), such as masks or goggles, face shields provide a broader range of coverage, safeguarding the eyes, nose, and mouth simultaneously. Here’s a detailed overview of why face shields are essential and why you should consider using one"
+  },
+  {
+    "name": "Surgical Gloves",
+    "category_name": "Protective Equipment",
+    "image": "https://klbtheme.com/medibazar/wp-content/uploads/2020/09/product05.jpg",
+    "price": 7,
+    "description": "Surgical gloves are a critical tool in ensuring safety, hygiene, and precision during medical procedures and beyond. Designed to provide a protective barrier, they prevent the spread of infectious agents, safeguard patients, and protect healthcare workers from potential exposure to harmful substances. Here’s a detailed look at why surgical gloves are essential"
+  },
+  {
+    "name": "Insulin Syringe",
+    "category_name": "Diabetes Care",
+    "image": "https://tunatheme.com/tf/html/vicodin-preview/vicodin/img/product/4.png",
+    "price": 22,
+    "description": "Insulin syringes are an essential tool for individuals who require insulin therapy to manage diabetes. Designed with precision and safety in mind, insulin syringes provide a reliable method to administer the exact dosage of insulin needed to regulate blood sugar levels effectively. Their specialized design, features, and ease of use make them a preferred choice for millions worldwide."
+  },
+  {
+    "name": "Glucose Meter",
+    "category_name": "Diabetes Care",
+    "image": "https://tunatheme.com/tf/html/vicodin-preview/vicodin/img/product/3.png",
+    "price": 44,
+    "description": "A glucose meter (also known as a blood glucose monitor) is a vital device for individuals who need to regularly track their blood sugar levels. It helps those with diabetes, pre-diabetes, or those at risk of developing diabetes to monitor their glucose levels efficiently and accurately. This device measures the amount of glucose (sugar) present in a person's blood, providing crucial information that can influence health decisions, prevent complications, and optimize overall well-being."
+  },
+  {
+    "name": "N95 Mask",
+    "category_name": "COVID Essentials",
+    "image": "https://tunatheme.com/tf/html/vicodin-preview/vicodin/img/product-2/8.png",
+    "price": 14,
+    "description": "The N95 mask is a type of personal protective equipment (PPE) designed to provide a high level of protection against airborne particles, including dust, pollution, viruses, bacteria, and other harmful microorganisms. It is called N95 because it is designed to filter out at least 95% of particles that are 0.3 microns or larger in diameter, offering superior filtration compared to most other types of masks."
+  },
+  {
+    "name": "Infrared Thermometer",
+    "category_name": "COVID Essentials",
+    "image": "https://www.devsnews.com/template/medibazar-html/medibazar/assets/img/products/p-05.png",
+    "price": 52,
+    "description": "An infrared thermometer is a non-contact temperature measurement device that uses infrared technology to detect and measure the heat emitted by an object or surface. Unlike traditional thermometers that require direct contact with the target, infrared thermometers provide an instant and safe way to measure temperatures from a distance, making them ideal for a wide range of applications."
+  },
+  {
+    "name": "Ibuprofen",
+    "category_name": "Pain Relief",
+    "image": "https://medimela-next.netlify.app/images/product/2.png",
+    "price": 9,
+    "description": "Ibuprofen is a widely used non-prescription medication belonging to the class of drugs called nonsteroidal anti-inflammatory drugs (NSAIDs). It is commonly used to relieve pain, reduce inflammation, and lower fever. With its effectiveness and availability, ibuprofen has become one of the most popular over-the-counter medications used to manage a variety of common ailments."
+  },
+  {
+    "name": "Pain Relief Spray",
+    "category_name": "Pain Relief",
+    "image": "https://medimela-next.netlify.app/images/product/10.png",
+    "price": 9.5,
+    "description": "Pain relief spray is a convenient and effective topical solution designed to target localized pain in muscles, joints, and soft tissues. Whether you’re suffering from sports injuries, muscle strain, arthritis, or everyday discomforts like back pain or tension headaches, this spray offers fast-acting relief that can help you get back to your daily activities without the need for oral medications or lengthy treatment sessions."
+  },
+  {
+    "name": "Vitamin C Serum",
+    "category_name": "Skin Care",
+    "image": "https://medimela-next.netlify.app/images/product/14.png",
+    "price": 33,
+    "description": "Vitamin C serum is a powerful skincare product known for its brightening, anti-aging, and skin-rejuvenating properties. Packed with antioxidants, this serum has become a staple in many skincare routines due to its ability to address a variety of skin concerns and improve overall skin health."
+  },
+  {
+    "name": "Aloe Vera Gel",
+    "category_name": "Skin Care",
+    "image": "https://live.themewild.com/medion/assets/img/product/20.png",
+    "price": 90,
+    "description": "Aloe vera gel is a natural, soothing, and versatile product that has been used for centuries due to its remarkable health and beauty benefits. Extracted from the succulent aloe vera plant, this gel is rich in vitamins, minerals, amino acids, and antioxidants, making it an essential ingredient for skincare, haircare, and overall wellness."
+  },
+  {
+    "name": "Digital Weighing Scale",
+    "category_name": "Healthcare Device",
+    "image": "https://tunatheme.com/tf/html/vicodin-preview/vicodin/img/product/3.png",
+    "price": 200,
+    "description": "A digital weighing machine is a modern, precise, and efficient tool designed to measure the weight of an object or person with great accuracy. Unlike traditional mechanical scales, which rely on springs or other mechanical components, digital weighing machines use advanced technology like load cells to provide a digital readout of weight. This technology allows for more precise measurements, faster readings, and a higher level of convenience."
+  },
+  {
+    "name": "Nebulizer",
+    "category_name": "Healthcare Device",
+    "image": "https://tunatheme.com/tf/html/vicodin-preview/vicodin/img/product-2/11.png",
+    "price": 66,
+    "description": "A nebulizer is a medical device used to administer medication in the form of a mist that can be inhaled into the lungs. This device is especially helpful for individuals with respiratory conditions such as asthma, chronic obstructive pulmonary disease (COPD), bronchitis, and other conditions that affect the lungs and airways. Nebulizers convert liquid medications into fine particles that can be easily inhaled through a mouthpiece or mask, making them an effective alternative for individuals who have difficulty using inhalers or require higher doses of medication."
+  },
+  {
+    "name": "Goggles",
+    "category_name": "Protective Equipment",
+    "image": "https://img.drz.lazcdn.com/static/bd/p/b194e7e662b194fd8994037667ec38bc.png_720x720q80.png_.webp",
+    "price": 27,
+    "description": "Medical goggles are essential protective eye-wear designed specifically to safeguard the eyes from potential hazards in healthcare and medical environments. They are typically made with durable, high-quality materials such as polycarbonate, ensuring that they offer both safety and comfort during extended use. Medical goggles provide a crucial defense against a range of risks, including exposure to harmful chemicals, infectious agents, blood splashes, and other particles that can cause eye injuries or infections."
+  },
+  {
+    "name": "Full First Aid Kit",
+    "category_name": "Protective Equipment",
+    "image": "https://klbtheme.com/medibazar/wp-content/uploads/2020/12/aidkit.png",
+    "price": 120,
+    "description": "The primary reason people should use a first aid kit is to provide immediate care during an emergency. In situations where time is critical, having access to a well-stocked first aid kit can mean the difference between a minor injury becoming more serious or preventing further complications. For example, applying pressure to a wound to stop bleeding, using antiseptic to clean a cut, or performing CPR can all be aided by the items in a first aid kit, saving valuable time before professional help arrives."
+  }
+]

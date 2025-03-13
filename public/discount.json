@@ -1,0 +1,102 @@
+[
+  {
+    "_id": 1,
+    "product_name": "Paracetamol Tablets",
+    "category": "Pain Relief",
+    "description": "500mg tablets for fever and pain relief.",
+    "image": "",
+    "price": 50,
+    "discount_percentage": 10,
+    "discounted_price": 45
+  },
+  {
+    "_id": 2,
+    "product_name": "",
+    "category": "Medical Devices",
+    "description": "Fast and accurate digital thermometer.",
+    "image": "",
+    "price": 200,
+    "discount_percentage": 15,
+    "discounted_price": 170
+  },
+  {
+    "_id": 3,
+    "product_name": "",
+    "category": "Diagnostic Equipment",
+    "description": "Portable automatic blood pressure monitor.",
+    "image": "",
+    "price": 1500,
+    "discount_percentage": 20,
+    "discounted_price": 1200
+  },
+  {
+    "_id": 4,
+    "product_name": "Cough Syrup",
+    "category": "Cold and Flu",
+    "description": "100ml syrup for cough and throat irritation.",
+    "image": "",
+    "price": 120,
+    "discount_percentage": 5,
+    "discounted_price": 114
+  },
+  {
+    "_id": 5,
+    "product_name": "Hand Sanitizer",
+    "category": "Hygiene",
+    "description": "500ml bottle with 70% alcohol content.",
+    "image": "",
+    "price": 250,
+    "discount_percentage": 25,
+    "discounted_price": 187.5
+  },
+  {
+    "_id": 6,
+    "product_name": "",
+    "category": "Protective Equipment",
+    "description": "Pack of 5 high-quality N95 masks.",
+    "image": "",
+    "price": 500,
+    "discount_percentage": 30,
+    "discounted_price": 350
+  },
+  {
+    "_id": 7,
+    "product_name": "",
+    "category": "Diabetes Care",
+    "description": "Includes glucometer and 50 test strips.",
+    "image": "",
+    "price": 1800,
+    "discount_percentage": 18,
+    "discounted_price": 1476
+  },
+  {
+    "_id": 8,
+    "product_name": "",
+    "category": "First Aid",
+    "description": "50g tube for cuts, burns, and wounds.",
+    "image": "",
+    "price": 70,
+    "discount_percentage": 10,
+    "discounted_price": 63
+  },
+  {
+    "_id": 9,
+    "product_name": "",
+    "category": "Cold and Flu",
+    "description": "25g jar for relief from congestion and colds.",
+    "image": "",
+    "price": 90,
+    "discount_percentage": 15,
+    "discounted_price": 76.5
+  },
+  {
+    "_id": 10,
+    "product_name": "",
+    "category": "Nutritional Supplements",
+    "description": "30 tablets to boost immunity and energy.",
+    "image": "",
+    "price": 300,
+    "discount_percentage": 20,
+    "discounted_price": 240
+  }
+]
